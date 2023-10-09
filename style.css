@@ -1,0 +1,19 @@
+.class1{
+          color: aquamarine;
+          background-color: black;
+          border: 5px solid red;
+}
+#id1{
+    color: rosybrown;
+    background-color: skyblue;
+    border: dotted blue;
+}
+.div1{
+    color: chocolate;
+    background-color: cyan;
+    width: 300px;
+    height: 130px;
+    padding: 20PX 10PX 5PX 5px;
+    border:10px solid gold; 
+    margin: 20PX;
+}
